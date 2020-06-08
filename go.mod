@@ -1,3 +1,3 @@
-module github.com/mercarto/gsutils
+module github.com/mercarto/gsutil
 
 go 1.14
